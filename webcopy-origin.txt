@@ -1,0 +1,16 @@
+Uri: https://cse.google.com/cse?cx=e5108290b91a642e3
+File Name: C:\Downloaded Web Sites\cse.google.com\cse.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Product+Sans
+File Name: C:\Downloaded Web Sites\cse.google.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/productsans/v19/pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+File Name: C:\Downloaded Web Sites\cse.google.com\s\productsans\v19\pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/favicon.ico
+File Name: C:\Downloaded Web Sites\cse.google.com\favicon.ico
+Content Type: image/x-icon
+
